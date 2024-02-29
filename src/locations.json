@@ -1,0 +1,357 @@
+{
+  "locations": [
+    {
+      "name": "Miami",
+      "pic": "https://www.miamibeachfl.gov/wp-content/uploads/2023/01/miamibeachsouthpointe.jpg",
+      "country": "USA",
+      "language": "English",
+      "weather": {
+        "feel": "Hot",
+        "temp": 77
+      },
+      "currency": "Dollar",
+      "activities": ["Beach", "Clubs", "Pool"],
+      "id": 1
+    },
+    {
+      "name": "Rio",
+      "pic": "https://media.timeout.com/images/105482246/image.jpg",
+      "country": "Brazil",
+      "language": "Portuguese",
+      "weather": {
+        "feel": "Hot",
+        "temp": 79
+      },
+      "currency": "Brazilian Real",
+      "activities": ["Bars", "Favela", "Sugar Loaf"],
+      "id": 2
+    },
+    {
+      "name": "Puerto Rico",
+      "pic": "https://vueltapuertorico.com/wp-content/uploads/2019/11/Yunque-Rainforest-scaled.jpeg",
+      "country": "USA",
+      "language": "English",
+      "weather": {
+        "feel": "Hot",
+        "temp": 82
+      },
+      "currency": "Dollar",
+      "activities": ["Jet skiing", "Old San Juan", "El Yunque Rainforest"],
+      "id": 3
+    },
+    {
+      "name": "Washington DC",
+      "pic": "https://www.thoughtco.com/thmb/_ZNhs9lhwfoos1WoYBygoL03g6c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-497322993-598b2ad403f4020010ae0a08.jpg",
+      "country": "USA",
+      "language": "English",
+      "weather": {
+        "feel": "Cold",
+        "temp": 58
+      },
+      "currency": "Dollar",
+      "activities": [
+        "The White House",
+        "Washington Monument",
+        "Lincoln Memorial"
+      ],
+      "id": 4
+    },
+    {
+      "name": "Jerusalem",
+      "pic": "https://www.jmgads.com/vjsite/lists/kotel/kotelcclicense.jpg",
+      "country": "Israel",
+      "language": "Hebrew",
+      "weather": {
+        "feel": "Warm",
+        "temp": 66
+      },
+      "currency": "Shekel",
+      "activities": ["Western Wall", "The Skuk", "Old City Tours"],
+      "id": 5
+    },
+    {
+      "name": "Rome",
+      "pic": "https://media.architecturaldigest.com/photos/55f9e1e89bff6eeb3a241b96/1:1/w_426,h_426,c_limit/dam-images-daily-2015-08-roman-colosseum-roman-colosseum-italy-545.jpg",
+      "country": "Italy",
+      "language": "Italian",
+      "weather": {
+        "feel": "Warm",
+        "temp": 60
+      },
+      "currency": "Euro",
+      "activities": ["Colosseum", "Trevi Fountain", "Roman Forum"],
+      "id": 6
+    },
+    {
+      "name": "Hawaii",
+      "pic": "https://www.suitesandlobbies.com/wp-content/uploads/2023/10/Kilauea-1.jpg",
+      "country": "USA",
+      "language": "English",
+      "weather": {
+        "feel": "Hot",
+        "temp": 81
+      },
+      "currency": "Dollar",
+      "activities": [
+        "Volcanoes",
+        "Canyon State Park",
+        "Battleship Missouri Memorial"
+      ],
+      "id": 7
+    },
+    {
+      "name": "Paris",
+      "pic": "https://www.travelandleisure.com/thmb/SPUPzO88ZXq6P4Sm4mC5Xuinoik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/eiffel-tower-paris-france-EIFFEL0217-6ccc3553e98946f18c893018d5b42bde.jpg",
+      "country": "France",
+      "language": "French",
+      "weather": {
+        "feel": "Cold",
+        "temp": 53
+      },
+      "currency": "Euro",
+      "activities": ["Eifel Tower", "Louvre Museum", "Seine River"],
+      "id": 8
+    },
+    {
+      "name": "Vik",
+      "pic": "https://static.independent.co.uk/2023/05/04/10/iStock-1058181722.jpg",
+      "country": "Iceland",
+      "language": "Icelandic",
+      "weather": {
+        "feel": "Cold",
+        "temp": 38
+      },
+      "currency": "ISK",
+      "activities": ["Northern Lights", "Hot Springs", "Water Falls"],
+      "id": 9
+    },
+    {
+      "name": "Atlantis",
+      "pic": "https://www.atlantisbahamas.com/storage/media/atlantis-property-shot-royal-hero-sky.jpg",
+      "country": "Bahamas",
+      "language": "English",
+      "weather": {
+        "feel": "Hot",
+        "temp": 79
+      },
+      "currency": "Bahamian Dollar",
+      "activities": ["Resort Waterpark", "Swimming with Dolphins", "Snorkling"],
+      "id": 10
+    },
+    {
+      "name": "Myrtle Beach",
+      "pic": "https://sanddunesmb.com/wp-content/uploads/2020/04/Myrtle-Beach-Boardwalk.jpg",
+      "country": "USA",
+      "language": "English",
+      "weather": {
+        "feel": "Warm",
+        "temp": 65
+      },
+      "currency": "Dollar",
+      "activities": ["Mini Golf", "Water Sports", "Bars"],
+      "id": 11
+    },
+    {
+      "name": "Orlando",
+      "pic": "https://image.kkday.com/v2/image/get/w_960%2Cc_fit%2Cq_55%2Ct_webp/s1.kkday.com/product_36325/20230216025250_CIXCh/jpg",
+      "country": "USA",
+      "language": "English",
+      "weather": {
+        "feel": "Hot",
+        "temp": 73
+      },
+      "currency": "Dollar",
+      "activities": ["Universal Studios", "Disney", "Animal Kingdom"],
+      "id": 12
+    },
+    {
+      "name": "Houston",
+      "pic": "https://s3.amazonaws.com/wp-s3-teamropingjournal.com/wp-content/uploads/2023/03/29091956/3.17-Wild-Card-1-favs-013602-scaled-1.jpg",
+      "country": "USA",
+      "language": "English",
+      "weather": {
+        "feel": "Hot",
+        "temp": 72
+      },
+      "currency": "Dollar",
+      "activities": ["Nasa Space Center", "Rodeo", "Minute Maid Park"],
+      "id": 13
+    },
+    {
+      "name": "Wyoming",
+      "pic": "https://media.tacdn.com/media/attractions-content--1x-1/0f/4b/d2/62.jpg",
+      "country": "USA",
+      "language": "English",
+      "weather": {
+        "feel": "Cold",
+        "temp": 50
+      },
+      "currency": "Dollar",
+      "activities": ["Yellowstone", "Horse Back Riding", "Camping"],
+      "id": 14
+    },
+    {
+      "name": "London",
+      "pic": "https://assets.editorial.aetnd.com/uploads/2019/03/topic-london-gettyimages-760251843-feature.jpg",
+      "country": "England",
+      "language": "English",
+      "weather": {
+        "feel": "Cold",
+        "temp": 48
+      },
+      "currency": "Pound",
+      "activities": [
+        "Buckingham Palace",
+        "Tower of London",
+        "Harry Potter Tour"
+      ],
+      "id": 15
+    },
+    {
+      "name": "Bangkok",
+      "pic": "https://a.cdn-hotels.com/gdcs/production168/d707/c3156d7b-ce5a-4a5c-9a99-002b0ff57fe8.jpg",
+      "country": "Thailand",
+      "language": "Thai",
+      "weather": {
+        "feel": "Hot",
+        "temp": 75
+      },
+      "currency": "Thai Baht",
+      "activities": ["The Grand Palace", "Jungle Bike Tour", "Floating Market"],
+      "id": 16
+    },
+    {
+      "name": "Sydney",
+      "pic": "https://cdn.kimkim.com/files/a/images/d3eb08958d067fb2fdfaf6aedb3a7394d00fbbf6/big-4e4ec71c6a2492ab694bdc8b9d16924b.jpg",
+      "country": "Australia",
+      "language": "English",
+      "weather": {
+        "feel": "Hot",
+        "temp": 70
+      },
+      "currency": "AUD",
+      "activities": [
+        "Taronga Zoo",
+        "Blue Mountain Tour",
+        "Wildlife Waterfalls Tour"
+      ],
+      "id": 17
+    },
+    {
+      "name": "Cairo",
+      "pic": "https://www.corinthiantravel.co.uk/blog/wp-content/uploads/2016/07/Everything-you-need-to-know-when-visiting-the-Pyramids-in-Cairo-Egypt.jpg",
+      "country": "Egypt",
+      "language": "Arabic",
+      "weather": {
+        "feel": "Hot",
+        "temp": 72
+      },
+      "currency": "Egyptian Pound",
+      "activities": ["Pyramids", "White Desert", "Camel Riding"],
+      "id": 18
+    },
+    {
+      "name": "Vegas",
+      "pic": "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/las-vegas-casino-revenue.jpg",
+      "country": "USA",
+      "language": "English",
+      "weather": {
+        "feel": "Hot",
+        "temp": 72
+      },
+      "currency": "Dollar",
+      "activities": [
+        "Casino",
+        "Stratosphere Roller Coaster",
+        "Strip Performace Shows"
+      ],
+      "id": 19
+    },
+    {
+      "name": "Los Angeles",
+      "pic": "https://www.nomadicmatt.com/wp-content/uploads/2018/04/laguide1.jpg",
+      "country": "USA",
+      "language": "English",
+      "weather": {
+        "feel": "Warm",
+        "temp": 68
+      },
+      "currency": "Dollar",
+      "activities": ["Beverely Hills Tour", "Beach", "Hollywood Tour"],
+      "id": 20
+    },
+    {
+      "name": "Denver",
+      "pic": "https://cdn.outsideonline.com/wp-content/uploads/2020/03/12/gem-lake-and-longs-peak-sunset_h.jpg",
+      "country": "USA",
+      "language": "English",
+      "weather": {
+        "feel": "Cold",
+        "temp": 50
+      },
+      "currency": "Dollar",
+      "activities": [
+        "Rocky Mountain Park",
+        "Beyond Light Show",
+        "Pikes Peak Tour"
+      ],
+      "id": 21
+    },
+    {
+      "name": "Tokyo",
+      "pic": "https://www.planetware.com/wpimages/2020/06/japan-tokyo-to-mt-fuji-best-ways-to-get-there-by-group-tour.jpg",
+      "country": "Japan",
+      "language": "Japanese",
+      "weather": {
+        "feel": "Warm",
+        "temp": 62
+      },
+      "currency": "Yen",
+      "activities": ["Mt Fuji Tour", "Street Go Cart", "Monkey Park"],
+      "id": 22
+    },
+    {
+      "name": "Alaska",
+      "pic": "https://images.squarespace-cdn.com/content/v1/5f5ac5ba627da22efe3b9f60/1674675759735-S111IGQ60WMWYL2YOQFM/Whale+Sculpture+Juneau.jpg",
+      "country": "USA",
+      "language": "English",
+      "weather": {
+        "feel": "Cold",
+        "temp": 30
+      },
+      "currency": "Dollar",
+      "activities": [
+        "Whale Watching",
+        "Wildlife and Glariers",
+        "Morthern Lights"
+      ],
+      "id": 23
+    },
+    {
+      "name": "Cancun",
+      "pic": "https://www.cancunadventure.net/images/mayanruins/tulum.jpg",
+      "country": "Mexico",
+      "language": "Spanish",
+      "weather": {
+        "feel": "Hot",
+        "temp": 80
+      },
+      "currency": "Peso",
+      "activities": ["Tulim Ruins", "Chichun Itza", "ATV Jungle Adventure"],
+      "id": 24
+    },
+    {
+      "name": "New Orleans",
+      "pic": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/2/68/268bd7ae-f70e-5952-84e1-2a7b1156b216/5d12542d8c020.image.jpg",
+      "country": "USA",
+      "language": "English",
+      "weather": {
+        "feel": "Warm",
+        "temp": 65
+      },
+      "currency": "Dollar",
+      "activities": ["Swamp Boat Ride", "Haunted Pub", "Nightlife"],
+      "id": 25
+    }
+  ]
+}
