@@ -20,10 +20,6 @@ const Footer = () => {
         <div className="flex-item">Europe Tours</div>
         <div className="flex-item">Asia Tours</div>
         <div className="flex-item">Australia & New Zealand Tours</div>
-        <div className="flex-item">
-          Thank you all for visiting Vacationlocations.com! I hope you all
-          enjoyed and you are now able to plan your dream vacation.
-        </div>
       </div>
       <div className="grid-container">
         <div className="grid-item">Hotels</div>
