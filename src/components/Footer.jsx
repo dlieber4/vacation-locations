@@ -2,7 +2,7 @@ const Footer = () => {
   return (
     <div className="footer">
       <div className="footer-info">
-        <h2>More information is available below</h2>
+        <h1>More information is available below</h1>
         <h3>Hotels</h3>
         <h4>North America Hotels</h4>
         <h4>Central America Hotels</h4>
