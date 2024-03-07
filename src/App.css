@@ -30,6 +30,7 @@ img {
   justify-content: space-between;
   align-items: center;
   background-color: rgb(118, 177, 250);
+  color: azure;
 }
 
 .flex-item {

@@ -23,22 +23,26 @@ const Footer = () => {
       </div>
       <div className="grid-container">
         <div className="grid-item">Hotels</div>
-        <div className="grid-item">North America Hotels</div>
-        <div className="grid-item">Central America Hotels</div>
-        <div className="grid-item">South America Hotels</div>
-        <div className="grid-item">Europe Hotels</div>
-        <div className="grid-item">Asia Hotels</div>
-        <div className="grid-item">Australia & New Zealand Hotels</div>
         <div className="grid-item">Transportation</div>
-        <div className="grid-item">Bus Times & Prices</div>
-        <div className="grid-item">Train Times & Prices</div>
-        <div className="grid-item">Taxi Information</div>
         <div className="grid-item">Tours & Attractions</div>
+        <div className="grid-item">North America Hotels</div>
+        <div className="grid-item">Bus Times & Prices</div>
         <div className="grid-item">North America Tours</div>
+        <div className="grid-item">Central America Hotels</div>
+        <div className="grid-item">Train Times & Prices</div>
         <div className="grid-item">Central America Tours</div>
+        <div className="grid-item">South America Hotels</div>
+        <div className="grid-item">Taxi Information</div>
         <div className="grid-item">South America Tours</div>
+        <div className="grid-item">Europe Hotels</div>
+        <div className="grid-item">Avis Car Rentals</div>
         <div className="grid-item">Europe Tours</div>
+        <div className="grid-item">Asia Hotels</div>
+        <div className="grid-item">Hertz Car Rental</div>
         <div className="grid-item">Asia Tours</div>
+        <div className="grid-item">Australia & New Zealand Hotels</div>
+        <div className="grid-item">Personal Driver</div>
+
         <div className="grid-item">Australia & New Zealand Tours</div>
         <div className="grid-item">
           Thank you all for visiting Vacationlocations.com! I hope you all
