@@ -14,4 +14,5 @@ const Location = (props) => {
     </li>
   )
 }
+
 export default Location
