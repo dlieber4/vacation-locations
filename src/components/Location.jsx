@@ -4,9 +4,10 @@ const Location = (props) => {
   return (
     <li className="location">
       <img src={props.location.pic} alt={props.location.name} />
-      <h3>{props.location.name}</h3>
-      <h5>Country: {props.location.country}</h5>
-      <h6>{props.location.weather.feel}</h6>
+      <h3>Location: {props.location.name}</h3>
+      <h3>Country: {props.location.country}</h3>
+      <h3>Temperature: {props.location.weather.temp}</h3>
+      <h3>Attractions:</h3>
       {props.location.activities.map((activity, index) => (
         <Activity activity={activity} key={index} />
       ))}
