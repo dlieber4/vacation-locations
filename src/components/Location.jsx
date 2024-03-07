@@ -4,11 +4,11 @@ const Location = (props) => {
   return (
     <li className="location">
       <img src={props.location.pic} alt={props.location.name} />
-      <h3>{props.loaction.name}</h3>
+      <h3>{props.location.name}</h3>
       <h5>Country: {props.location.country}</h5>
-      <h6>{props.location.weather}</h6>
+      <h6>{props.location.weather.feel}</h6>
       {props.location.activities.map((activity, index) => (
-        <Activity activity={activity.name} />
+        <Activity activity={activity} key={index} />
       ))}
     </li>
   )

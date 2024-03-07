@@ -2,13 +2,16 @@ import './App.css'
 import data from './locations.json'
 import Header from './components/Header'
 import Footer from './components/Footer'
+import Location from './components/Location'
 const App = () => {
   console.log(data)
   return (
     <div>
-      <h1>Vacation Locations</h1>
+      <h1>Worlds Best Vacation Destinations!</h1>
       <Header />
-      {/* map my locations here  */}
+      {data.locations.map((location) => (
+        <Location location={location} />
+      ))}
       <Footer />
     </div>
   )
