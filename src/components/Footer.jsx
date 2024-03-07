@@ -2,7 +2,6 @@ const Footer = () => {
   return (
     <div>
       <div className="flex-container">
-        <div className="flex-item">More information is available</div>
         <div className="flex-item">Hotels</div>
         <div className="flex-item">North America Hotels</div>
         <div className="flex-item">Central America Hotels</div>
@@ -27,7 +26,6 @@ const Footer = () => {
         </div>
       </div>
       <div className="grid-container">
-        <div className="grid-item">More information is available</div>
         <div className="grid-item">Hotels</div>
         <div className="grid-item">North America Hotels</div>
         <div className="grid-item">Central America Hotels</div>
