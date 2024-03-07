@@ -3,7 +3,7 @@ const Header = () => {
     <div className="header">
       <div className="header-info">
         <div>
-          <input type="text" placeholder="Search..." />
+          <input type="text" placeholder="Search Location..." />
         </div>
 
         <h3>By Dovi Lieber</h3>
